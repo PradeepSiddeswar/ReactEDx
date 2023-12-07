@@ -36,9 +36,12 @@ const Navbar8 = () => {
                         <a class="icon-link p-left " href="https://github.com/">
                             <button class="btn btn-dark"> <i class="fa fa-github" aria-hidden="true"></i>  Github</button>
                         </a>
+
                     </div>
                 </div>
             </div>
+           
+        <hr style={{color:'#00262b'}}/>
         </>
     )
 }

@@ -41,7 +41,7 @@ export default class Responsive extends Component {
     };
     return (
       <div class="container text-center ">
-        <h2> edX For Business </h2>
+        <h2> edX For Management </h2>
         <Slider {...settings}>
           <div class="col-md-3">
             <div class="card card-body">

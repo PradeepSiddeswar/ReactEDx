@@ -8,6 +8,7 @@ import Navbar5 from "../Navbar5";
 import Navbar6 from "../Navbar6";
 import Navbar7 from "../Navbar7";
 import Navbar8 from "../Navbar8";
+import Navbar9 from "../Navbar9";
 
 const Home = () => {
     return(
@@ -21,6 +22,8 @@ const Home = () => {
         <Navbar6 />
         <Navbar7 />
         <Navbar8 />
+        <Navbar9 />
+        
         </>
     )
 }
